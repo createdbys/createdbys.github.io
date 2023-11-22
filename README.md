@@ -1,5 +1,4 @@
 <p align="center">
-  
 ## My Main Socials
 #### Youtube
 [NetOps](https://www.youtube.com/channel/UClECCgkb9mgztvDuXR0xUgQ)
@@ -12,5 +11,4 @@
 [My Roblox Group](https://www.roblox.com/groups/32623439/createdby#!/about)
 [My Roblox UGC](https://www.roblox.com/catalog?Category=1&CreatorName=createdby&CreatorType=Group&salesTypeFilter=1)
 ###### just a personal project more added soon
-
 </p>
