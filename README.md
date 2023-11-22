@@ -15,6 +15,6 @@
 </p>
 
 <p align="center">
-  <b>###### just a personal project more added soon</b><br>
+  <b>just a personal project more added soon</b><br>
 </p>
 
