@@ -10,3 +10,10 @@
 [My Roblox Group](https://www.roblox.com/groups/32623439/createdby#!/about)
 [My Roblox UGC](https://www.roblox.com/catalog?Category=1&CreatorName=createdby&CreatorType=Group&salesTypeFilter=1)
 ###### just a personal project more added soon
+<p align="center">
+  <b>My Socials:</b><br>
+  <a href="#">[Youtube](https://www.youtube.com/channel/UClECCgkb9mgztvDuXR0xUgQ)</a> |
+  <a href="#">[Twitter](https://twitter.com/NetOps105)</a> |
+  <a href="#">[Instagram](https://www.instagram.com/net.ops/)</a>
+  <br><br>
+</p>
